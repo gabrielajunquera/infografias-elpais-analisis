@@ -6,6 +6,8 @@ La siguiente imagen ha sido extraída de la noticia del diario *El País* [La iz
 
 La noticia pretende reflejar la subida de la izquierda en la Cámara regional de la Comunidad de Madrid en las elecciones del pasado 2019. Para ello utiliza un gráfico semicircular con un sector dedicado a cada partido político. Los partidos políticos representados son **Unidas Podemos** en color violeta, **Más Madrid** en aguamarina, **PSOE** en rojo, **Ciudadanos** en naranja, **PP** en azul y **Vox** en verde. 
 
+La información se basa completamente en el gráfico aportado, comentando los datos que conciernen a cada partido.
+
 Creo que esta estrategia de visualización de datos es muy acertada. Por una parte los colores utilizados en los sectores del gráfico se corresponden con los colores utilizados en las campañas electorales de cada partido, haciendo que sea mucho más reconocible. Por otra parte, el tipo de gráfico semicircular parece emular de alguna forma el formato del Congreso, también hemisférico. 
 Los datos numéricos que aparecen en el gráfico se dividen por **número de diputados**, que aparecen en la parte superior en negrita con un tanaño de fuente ligeramente superior, y el *porcentaje de votos* sin negrita con un tamaño de fuente inferior por debajo del dato anterior. Debajo de ambos se encuentra el nombre del Partido, lo cual quizás haga de la infografía un poco caótica y difícil de leer, ya que el nombre del partido también se especifica debajo de cada sector del gráfico. 
 
