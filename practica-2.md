@@ -10,7 +10,7 @@ Este crecimiento masivo tiene autores, y son EE.UU y Rusia que, a pesar de haber
 
 Junto a los norteamericanos y los rusos, otros siete países cuentan con armas nucleares: Reino Unido, Francia, China, Pakistán, India, Israel y Corea del Norte, aunque los datos de este último no son transparentes y los datos con los que cuentan los think tanks actualmente solo son estimaciones. Reino Unido, Francia y China, además de esas dos primeras potencias, tienen la capacidad de detonar una bomba nuclear en *cualquier parte del planeta*. 
 
-![Fuente: El Orden Mundial](https://elordenmundial.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/03/Armas-nucleares-mundo.png)
+![Fuente: El Orden Mundial](https://elordenmundial.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/03/Armas-nucleares-mundo.png.webp)
 
 Según los datos aportados por *[El Orden Mundial]( https://elordenmundial.com/mapas-y-graficos/armas-nucleares-mundo/)* en 2021 había casi 13.080 cabezas nucleares —13.126 teniendo en cuenta a Corea del Norte, fuera de la lista proporcionada con anterioridad del SIPRI por falta de información—. A pesar de que serían 300 menos que las que había en el año anterior, prácticamente todas las potencias nucleares han aumentado sus stocks de armas atómicas, lo cual resulta muy preocupante en el nuevo escenario geopolítico de la Guerra de Ucrania. 
 En total, según los datos de *El Orden Mundial*, entre 2020 y 2021 Reino Unido habría sumado diez cabezas nucleares a su arsenal; China treinta más; India, seis; Pakistán, cinco; y Corea del Norte, entre diez y veinte. Francia e Israel, por su parte, han mantenido estables sus niveles de armamento.
