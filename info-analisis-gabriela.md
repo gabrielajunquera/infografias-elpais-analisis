@@ -1,4 +1,5 @@
-## Análisis de infografía de datos 
+# Análisis de infografía de datos 
+## Gabriela Junquera
 ### Sondeo preelectoral de elecciones municipales de la Comunidad de Madrid en 2019 por El País
 La siguiente imagen ha sido extraída de la noticia del diario *El País* [La izquierda recuperaría la Comunidad de Madrid tras 24 años](https://elpais.com/politica/2019/05/19/actualidad/1558286092_743317.html#?rel=mas)
 ![Infografías El País](https://imagenes.elpais.com/resizer/9oFakgx8oj8wbDhB3v03HCqvi_g=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/CE3P2ZV6KVUERYJ2LIFDGLEQQ4.png)
